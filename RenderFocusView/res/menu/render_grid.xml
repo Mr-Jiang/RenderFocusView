@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        xmlns:app="http://schemas.android.com/apk/com.example.engineerjspcustomview"
+        android:id="@+id/render_button"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/render_button"/>
+
+    <item
+        xmlns:app="http://schemas.android.com/apk/com.example.engineerjspcustomview"
+        android:id="@+id/render_list"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/render_list"/>
+</menu>

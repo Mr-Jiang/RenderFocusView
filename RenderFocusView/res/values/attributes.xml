@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RenderFocusView">
+        <attr name="RenderColor" format="color" localization="suggested" />
+        <attr name="RenderDimension" format="dimension" localization="suggested" />
+        <attr name="RenderOverlay" format="boolean" localization="suggested" />
+        <attr name="RenderAlpha" format="float" localization="suggested" />
+        <attr name="RenderDuration" format="integer" localization="suggested" />
+        <attr name="RenderFadeDuration" format="integer" localization="suggested" />
+        <attr name="RenderHover" format="boolean" localization="suggested" />
+        <attr name="RenderBackground" format="color" localization="suggested" />
+        <attr name="RenderDelayClick" format="boolean" localization="suggested" />
+        <attr name="RenderPersistent" format="boolean" localization="suggested" />
+        <attr name="RenderInAdapter" format="boolean" localization="suggested" />
+        <attr name="RenderRoundedCorners" format="dimension" localization="suggested" />
+    </declare-styleable>
+</resources>

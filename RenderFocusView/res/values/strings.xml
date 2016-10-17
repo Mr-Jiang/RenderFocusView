@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RenderFocusView</string>
+    <string name="render_list">ListView</string>
+    <string name="render_button">Button</string>
+    <string name="render_grid">GridView</string>
+
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="transparent_bg">#CF0000</drawable>
+    <drawable name="default_pressed">#20000000</drawable>
+
+</resources>

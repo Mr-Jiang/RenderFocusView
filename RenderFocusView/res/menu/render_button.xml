@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/com.example.engineerjspcustomview" >
+
+    <item
+        xmlns:app="http://schemas.android.com/apk/com.example.engineerjspcustomview"
+        android:id="@+id/render_list"
+        android:title="@string/render_list"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/render_grid"
+        android:title="@string/render_grid"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>
